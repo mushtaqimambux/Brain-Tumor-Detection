@@ -1,0 +1,5 @@
+echo MRI Images/ > .gitignore
+echo brain_tumor_env/ >> .gitignore
+echo venv/ >> .gitignore
+echo *.zip >> .gitignore
+echo *.keras >> .gitignore
